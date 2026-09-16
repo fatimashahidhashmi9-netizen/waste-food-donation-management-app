@@ -1,22 +1,22 @@
-Waste Food Donation and Management App
+**Waste Food Donation and Management App**
 
-Description:
+**Description:**
 A web-based food donation platform connecting restaurants and NGOs to facilitate the donation and management of leftover food.
 
-Technologies:
+**Technologies:**
 • HTML 
 • CSS 
 • JavaScript 
 • C# 
 • SQL Server
 
-Key Features:
--User registration and authentication
--NGO and restaurant management
--Food donation requests
--Request acceptance/rejection
--Admin management and history tracking
--NGO–restaurant donation coordination
+**Key Features:**
+- User registration and authentication
+- NGO and restaurant management
+- Food donation requests
+- Request acceptance/rejection
+- Admin management and history tracking
+- NGO–restaurant donation coordination
 
 Documentation:
 [waste food app.pdf](https://github.com/user-attachments/files/32259729/waste.food.app.pdf)
