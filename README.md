@@ -4,7 +4,11 @@ Description:
 A web-based food donation platform connecting restaurants and NGOs to facilitate the donation and management of leftover food.
 
 Technologies:
-HTML • CSS • JavaScript • C# • SQL Server
+• HTML 
+• CSS 
+• JavaScript 
+• C# 
+• SQL Server
 
 Key Features:
 -User registration and authentication
