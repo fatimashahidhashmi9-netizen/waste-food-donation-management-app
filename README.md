@@ -22,6 +22,7 @@ Documentation:
 [waste food app.pdf](https://github.com/user-attachments/files/32259729/waste.food.app.pdf)
 
 Screenshots:
+
 <img width="523" height="349" alt="image" src="https://github.com/user-attachments/assets/eebb77fc-0793-4aa3-a55c-8a61c9159bde" />
 <img width="476" height="290" alt="image" src="https://github.com/user-attachments/assets/a13cfe09-5434-4f88-9ada-12ad08891cf6" />
 <img width="379" height="391" alt="image" src="https://github.com/user-attachments/assets/7698490f-9ede-46eb-8f09-45e4a4642f6a" />
